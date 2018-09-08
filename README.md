@@ -1,3 +1,3 @@
 # python-algo
 
-This is for learing reference.
+This is for learning reference.
